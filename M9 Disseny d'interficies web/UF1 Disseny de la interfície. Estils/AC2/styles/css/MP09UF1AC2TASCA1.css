@@ -1,0 +1,72 @@
+.container {
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.box {
+    margin: 5px;
+}
+
+
+.rojo1 {
+    display: inline-block;
+    background-color: #FF4641; 
+    width: 450px; 
+    height: 100px; 
+    margin-right: 10px; 
+}
+
+.rojo2 {
+    display: inline-block;
+    background-color: #FF4641; 
+    width: 250px; 
+    height: 100px; 
+}
+
+.naranja {
+    background-color: #FFA52D;
+    width: 300px; 
+    height: 300px; 
+    position: relative; 
+    display: inline-block;
+}
+
+.morado1 {
+    background-color: #9B0578;
+    width: 405px; 
+    height: 143px; 
+    display: inline-block;
+    position: fixed;
+}
+
+.morado2 {
+    background-color: #9B0578;
+    width: 405px; 
+    height: 143px;
+    display: inline-block;
+    position: relative;
+}
+
+
+
+.azul1 {
+    background-color: #00738C; 
+    width: 200px; 
+    height: 80px; 
+    display: inline-block;
+}
+
+.azul2 {
+    background-color: #00738C; 
+    width: 292px; 
+    height: 80px; 
+    display: inline-block;
+}
+
+.azul3 {
+    background-color: #00738C; 
+    width: 200px; 
+    height: 80px; 
+    display: inline-block;
+}
